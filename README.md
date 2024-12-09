@@ -10,7 +10,7 @@ LookinLabs test task is divided into two parts: Software Engineering and Cloud O
 
 ## Main Task (Software Engineering)
 
-**1. Write an golang http server with basic requests**
+**1. Write a golang http server with basic requests**
 
 Write an golang web http server based on Gin framework that will have 2 endpoints:
 
